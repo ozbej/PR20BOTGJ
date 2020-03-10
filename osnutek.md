@@ -9,3 +9,5 @@ Stolpci so:
 prometne nesreče- skupaj, prometne nesreče s smrtnim izidom, prometne nesreče s telesno poškodbo, prometne nesreče z materialno škodo, število udeležencev- skupaj, število udeležencev- mrtvi, število udeležencev s hudo telesno poškodbo, število udeležencev z lahko telesno poškodbo, število udeležencev brez poškodbe.
 
 ![Podatki slika](podatki.png)
+
+Link do podatkov: https://podatki.gov.si/dataset/surs2222005s
