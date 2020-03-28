@@ -13,6 +13,7 @@ Jan: nesreče Z smrtinim izidom (kdo je umru?)
 Bian: št nesreč glede na narodnost
 Gal Lindič: GLEDE NA TIP VOZILA
 Bian: poškodbe/varnostni pas?
+Ožbej: procent prometnih nesreč s smrtnim izzidom, ki so jih povzročili mlajši od 21 let.
 #stanje prometa glede na uro?
 
 
