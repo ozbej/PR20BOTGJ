@@ -14,10 +14,14 @@
 
 Za temo naše projektne naloge smo si izbrali podatkovno zbirko [Prometne nesreče v letu 2019](https://www.policija.si/o-slovenski-policiji/statistika/prometna-varnost).
 
+Atributi se nahajajo v `podatki/pn2019.csv`.  
+Pomembni atributi, ki smo jih analizirali: UraPN, VzrokNesrece, TipNesrece, VremenskeOkoliscine, StanjeVozisca, Povzrocitelj, Starost, Spol, Drzavljanstvo, UporabaVarnostnegaPasu, VozniskiStazVLetih, VozniskiStazVMesecih, VrednostAlkotesta.
+
 ## Cilji
 
 * Vpliv alkohola, ure, spola, vozniškega staža na število povzročenih nesreč
 * Vpliv tipa nesreče na poškodbe
+* Vpliv uporabe varnostnega pasu na tip poškodbe
 
 ## Predstavitev rezultatov
 
@@ -97,4 +101,4 @@ Po vizualizaciji opazimo, da so moški povzročili približno dvakrat toliko nes
 
 Spodnja vizualizacija prikazuje, kje vse v Sloveniji so se dogajale nesreče ob določeni uri v dnevu. Pri tem vsaka pika na grafu predstavlja eno prometno nesrečo.
 
-![Graf](grafi/mapa nesrec - ure.gif)
+![](grafi/mapa nesrec-meseci.gif)
