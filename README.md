@@ -51,7 +51,7 @@ Po vizualizaciji smo ugotovili, da je največ nesreč zaradi pijanih voznikov ob
 
 #### Število poškodb glede na tip nesreče
 
-![Graf](jan_nesrece_poskodbe.png)
+![Graf](grafi/jan_nesrece_poskodbe.png)
 
 Iz vizualizacije smo izpustili nesreče, kjer so udeleženci brez poškodb oziroma z lažjimi poškodbami. Kot vidimo, je vrsta poškodbe odvisna od tipa nesreče. Iz grafa vidimo, da je pri čelnem trčenju največ smrtnih primerov, med tem ko pri povoženju živali ni bilo nobene smrtne žrtve (živali not included).
 
@@ -59,7 +59,7 @@ Iz vizualizacije smo izpustili nesreče, kjer so udeleženci brez poškodb oziro
 
 V poročilih pogosto zaslediš, da pijan voznik povozi koga, sam pa jo odnese brez poškodb. Zato nas je zanimalo, kakšno je število smrti povzročiteljev nesreč v primerjavi z udeleženci.
 
-![Graf](jan_udelezenci.png)
+![Graf](grafi/jan_udelezenci.png)
 
 Kot vidimo v vizualizaciji, je v resnici večje število mrtvih povzročiteljev.
 
@@ -67,7 +67,7 @@ Kot vidimo v vizualizaciji, je v resnici večje število mrtvih povzročiteljev.
 
 Splošno mnenje ljudi je, da mladi vozniki povzročijo več nesreč kot izkušeni, zato smo se odločili, da bomo to hipotezo preverili.
 
-![Graf](ozbej_staz.png)
+![Graf](grafi/ozbej_staz.png)
 
 Kot lahko vidimo, se število povzročenih nesreč z dolžino vozniškega staža drastično zmanjša. Nad temi podatki smo izračunali pearsonov koeficient, ki je enak **-0.95**. To pomeni, da sta si dolžina vozniškega staža in število povzročenih nesreč **obratno sorazmerna**.
 
@@ -77,6 +77,6 @@ Izračunali smo tudi, da ljudje, mlajši od 21 let, povzročijo 8% vseh prometni
 
 Splošno mnenje (moških) je, da so ženske slabše voznice, zato smo se odločili preveriti število povzročenih nesreč glede na spol.
 
-![Graf](tadej_spol.png)
+![Graf](grafi/tadej_spol.png)
 
 Po vizualizaciji opazimo, da so moški povzročili približno dvakrat toliko nesreč kot ženske. Vendar pa pri tem ne vemo, koliko procentov od vseh voznikov je moških, koliko pa žensk.
