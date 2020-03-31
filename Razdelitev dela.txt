@@ -20,3 +20,10 @@ Ožbej: procent prometnih nesreč s smrtnim izzidom, ki so jih povzročili pijan
 
 BONUS: izris mape iz koordinat nesreč 
 
+V poročilo gre:
+- Bian: pasi (update)- dodano v porocilo
+- Gal: ure nesrec, procent mrtvih motoristov, gif nesrece po regijah
+- Jan: graf udelezenci/povzrocitelji (smrti), graf poskodbe/tip nesrece
+- Ozbej: leta izpita (+ Janova koda pod 21 let), gif, graf pijanih povzrociteljev (mergi z lindicovim grafom)
+- Tadej: nesrece glede na spol
+
