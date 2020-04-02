@@ -110,4 +110,4 @@ Spodnja vizualizacija prikazuje, kje vse v Sloveniji so se dogajale nesreče v d
 
 ## Zaključek
 
-Ob izdelavi projektne naloge smo nekaj svojih hipotez potrdili, nekaj smo jih ovrgli. Vendar pa smo se vsi naučili nekaj novega o programskem jeziku Python in o obdelavi podatkov.
+Z dosedanjim delom na projektu smo naredili osnovno analizo podatkov, na kateri bomo gradili v nadaljevanju.
