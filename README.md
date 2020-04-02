@@ -1,14 +1,14 @@
-# Analiza prometnih nesreč leta 2019 (v Sloveniji)
+Bian Klančnik, Jan Weissenbach, Gal Lindič, Tadej ločniškar in Ožbej Golob
 
-## Člani skupine
+## Analiza prometnih nesreč leta 2019 (v Sloveniji)
 
-| Ime in priimek | Vpisna številka |
-| -------------- | --------------- |
-| Bian Klančnik | 63180147 |
-| Jan Weissenbach | 63180322 |
-| Gal Lindič | 63180182 |
-| Tadej Ločniškar | 63180184 |
-| Ožbej Golob | 63180105 |
+# Projektna naloga pri predmetu Podatkovno rudarjenje
+
+Mentor: doc. dr. Tomaž Curk
+
+## Uvod
+
+Pri projektni nalogi smo si izbrali podatkovno zbirko, ki beleži različne podatke o prometnih nesrečah v letu 2019. Nad podatki smo izvedli analizo, pri tem smo analizirali podatke, ki so se nam zdeli zanimivi. Rezultate smo predstavili tudi s pomočjo različnih vizualizacij.
 
 ## Opis podatkovne zbirke
 
@@ -102,3 +102,7 @@ Po vizualizaciji opazimo, da so moški povzročili približno **dvakrat več** n
 Spodnja vizualizacija prikazuje, kje vse v Sloveniji so se dogajale nesreče v določenem mescu. Pri tem vsaka pika na grafu predstavlja eno prometno nesrečo.
 
 ![GIF](grafi/mapa-nesrec-meseci.gif)
+
+## Zaključek
+
+
