@@ -97,7 +97,7 @@ Izračunali smo tudi, da ljudje, mlajši od 21 let, povzročijo **8%** vseh prom
 Splošno mnenje (moških) je, da so ženske slabše voznice, zato smo se odločili preveriti število povzročenih nesreč glede na spol.
 
 ![Graf](grafi/tadej_spol.png)  
-**Slika 7:** število povzročenih nesreč glede na spol
+**Slika 7:** Število povzročenih nesreč glede na spol
 
 Po vizualizaciji opazimo, da so moški povzročili približno **dvakrat več** nesreč kot ženske. Vendar pa pri tem ne vemo, koliko procentov od vseh voznikov je moških, koliko pa žensk.
 
