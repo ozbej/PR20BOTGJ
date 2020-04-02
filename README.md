@@ -1,7 +1,7 @@
-<center>Bian Klančnik, Jan Weissenbach, Gal Lindič, Tadej ločniškar in Ožbej Golob</center>
-## <center>Analiza prometnih nesreč leta 2019 (v Sloveniji)</center>
-# <center>Projektna naloga pri predmetu Podatkovno rudarjenje</center>
-<center>Mentor: doc. dr. Tomaž Curk</center>
+Bian Klančnik, Jan Weissenbach, Gal Lindič, Tadej ločniškar in Ožbej Golob
+## Analiza prometnih nesreč leta 2019 (v Sloveniji)
+# Projektna naloga pri predmetu Podatkovno rudarjenje
+Mentor: doc. dr. Tomaž Curk
 
 ## Uvod
 
