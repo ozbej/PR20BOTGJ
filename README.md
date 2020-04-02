@@ -48,7 +48,8 @@ Prej smo ugotovili, da je bilo **90%** udeležencev prometnih nesreč pripetih z
 
 Pred vizualizacijo smo pričakovali, da bo največ nesreč zjutraj od 6 do 8 ure in od 14 do 16, ker se takrat ljudje vozijo v in iz službe.
 
-![Graf](grafi/gal_ure.png)
+![Graf](grafi/gal_ure.png)  
+**Slika 2:** Število nesreč glede na uro
 
 Po vizualizaciji smo ugotovili, da se največ nesreč res zgodi **med 14 in 16 uro**, vendar pa je nesreč v jutranjih urah manj kot smo pričakovali.
 
@@ -59,13 +60,15 @@ Od vseh nesreč je imelo smrtno žrtev **0.5%** nesreč. Proti pričakovanjem pa
 
 Pri pijanih voznikih pa smo pričakovali, da se bo število nesreč proti večeru večalo. Največje število nesreč smo pričakovali nekje med 1. in 3. uro zjutraj.
 
-![Graf](grafi/ozbej_ure.png)
+![Graf](grafi/ozbej_ure.png)  
+**Slika 3:** Število nesreč (kjer je povzročitelj pijan) glede na uro
 
 Po vizualizaciji smo ugotovili, da je največ nesreč zaradi pijanih voznikov **ob 19. uri**. Presenetljivo po tem začne število nesreč padati.
 
 ### Število poškodb glede na tip nesreče
 
-![Graf](grafi/jan_nesrece_poskodbe.png)
+![Graf](grafi/jan_nesrece_poskodbe.png)  
+**Slika 4:** Število poškodb glede na tip nesreče
 
 Iz vizualizacije smo izpustili nesreče, kjer so udeleženci brez poškodb oziroma z lažjimi poškodbami. Kot vidimo, je vrsta poškodbe odvisna od tipa nesreče. Iz grafa vidimo, da je pri čelnem trčenju največ smrtnih primerov, medtem ko pri povoženju živali ni bilo nobene smrtne žrtve (živali not included).
 
@@ -73,7 +76,8 @@ Iz vizualizacije smo izpustili nesreče, kjer so udeleženci brez poškodb oziro
 
 V poročilih pogosto zaslediš, da pijan voznik povozi koga, sam pa jo odnese brez poškodb. Zato nas je zanimalo, kakšno je število smrti povzročiteljev nesreč v primerjavi z udeleženci.
 
-![Graf](grafi/jan_udelezenci.png)
+![Graf](grafi/jan_udelezenci.png)  
+**Slika 5:** Število smrti glede na tip udeleženca
 
 Kot vidimo v vizualizaciji, je v resnici večje število (približno **60%**) mrtvih povzročiteljev.
 
@@ -81,7 +85,8 @@ Kot vidimo v vizualizaciji, je v resnici večje število (približno **60%**) mr
 
 Splošno mnenje ljudi je, da mladi vozniki povzročijo več nesreč kot izkušeni, zato smo se odločili, da bomo to hipotezo preverili.
 
-![Graf](grafi/ozbej_staz.png)
+![Graf](grafi/ozbej_staz.png)  
+**Slika 6:** Število povzročenih nesreč glede na vozniški staž
 
 Kot lahko vidimo, se število povzročenih nesreč z dolžino vozniškega staža drastično zmanjša. Nad temi podatki smo izračunali pearsonov koeficient, ki je enak **-0.95**. To pomeni, da sta si dolžina vozniškega staža in število povzročenih nesreč **obratno sorazmerna**.
 
@@ -91,7 +96,8 @@ Izračunali smo tudi, da ljudje, mlajši od 21 let, povzročijo **8%** vseh prom
 
 Splošno mnenje (moških) je, da so ženske slabše voznice, zato smo se odločili preveriti število povzročenih nesreč glede na spol.
 
-![Graf](grafi/tadej_spol.png)
+![Graf](grafi/tadej_spol.png)  
+**Slika 7:** število povzročenih nesreč glede na spol
 
 Po vizualizaciji opazimo, da so moški povzročili približno **dvakrat več** nesreč kot ženske. Vendar pa pri tem ne vemo, koliko procentov od vseh voznikov je moških, koliko pa žensk.
 
@@ -99,7 +105,8 @@ Po vizualizaciji opazimo, da so moški povzročili približno **dvakrat več** n
 
 Spodnja vizualizacija prikazuje, kje vse v Sloveniji so se dogajale nesreče v določenem mescu. Pri tem vsaka pika na grafu predstavlja eno prometno nesrečo.
 
-![GIF](grafi/mapa-nesrec-meseci.gif)
+![GIF](grafi/mapa-nesrec-meseci.gif)  
+**Slika 8:** Število nesreč glede na uro v dnevu
 
 ## Zaključek
 
