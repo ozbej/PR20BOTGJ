@@ -32,8 +32,8 @@ Ko smo obdelali podatke, smo ugotovili naslednje:
 
 Vidimo, da je bilo **90%** ljudi, udeleženih v prometnih nesrečah, pripetih z varnostnim pasom.
 
-![Graf](grafi/bian_pasi.png)
-**Slika 1** Odstotek vrste poškodb glede na uporabo varnostnega pasu
+![Graf](grafi/bian_pasi.png)  
+**Slika 1:** Odstotek vrste poškodb glede na uporabo varnostnega pasu
 
 Po vizualizaciji ugotovimo naslednje:
 
