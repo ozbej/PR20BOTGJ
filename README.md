@@ -39,7 +39,7 @@ Po vizualizaciji ugotovimo naslednje:
 
 * Odstotek nesreč s smrtnim izidom, kjer je bil udeleženec pripet z varnostnim pasom: **0.21%**
 * Odstotek nesreč s smrtnim izidom, kjer udeleženec ni bil pripet z varnostnim pasom: **1.23%**
-* Odstotek nesreč z hudimi telesnimi poškodbami, kjer udeleženec ni bil pripet z varnostnim pasom: **8.51%**
+* Odstotek nesreč s hudimi telesnimi poškodbami, kjer udeleženec ni bil pripet z varnostnim pasom: **8.51%**
 * Število mrtvih ljudi, ki niso bili pripeti z varnostnim pasom: **37**
 
 Prej smo ugotovili, da je bilo **90%** udeležencev prometnih nesreč pripetih z varnostnim pasom. Od ostalih **10%** ljudi, ki niso bili pripeti z varnostnim pasom jih je **1.23%** umrlo v prometni nesreči, kar je **1%** več, kot pa pri udeležencih, kateri so bili pripeti. Hude telesne poškodbe jih je imelo okrog **9%**.
