@@ -1,0 +1,21 @@
+Gal Lindic: 
+- st. nesrec glede na uro (gost/redek/normalen), normaliziri
+- graf pijanih voznikov po urah normaliziri
+
+Ozbej Golob:
+- nared tut graf staza brez ignoriranja podatkov (pa dodat kok vrstic sm spustiu)
+- Regresija (napoved vrednosti) na stazu
+
+Jan Weissenbach:
+- Dej graf "St smrti glede na tip udelezenca" v procente
+- v GIF dodaj mejo Slovenije
+
+Tadej Locniskar:
+- probi najdit podatke o st registriranih voznikov (moski/zenske)
+- Bayes (tip vozila glede na poskodbo)
+
+Bian Klancnik:
+- Bayes (tip vozila glede na poskodbo)
+
+Za nardit:
+- Hierarhicno grucenje (?)
