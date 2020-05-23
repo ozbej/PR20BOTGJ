@@ -1,7 +1,0 @@
-- podatki o prometu pri nesrečah po urah
-- povedat kok vrstic smo spustili pri stažu (nardit graf tud z vsemi vrsticami)
-- grafi z absotlutnimi številkami brez reference se težko primerjajo
-- dejansko razmerje za ta graf moški/ženske
-- oba grafa za število nesreč glede na uro ista skala
-- graf za pijane voznike eksplicitno risanje, koliko jih je pijanih glede na uro (če je to vprašanje)
-- komentar na staž, ure in spol
