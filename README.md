@@ -105,7 +105,7 @@ Po vizualizaciji opazimo, da so moški povzročili približno **dvakrat več** n
 
 Spodnja vizualizacija prikazuje, kje vse v Sloveniji so se dogajale nesreče v določenem mescu. Pri tem vsaka pika na grafu predstavlja eno prometno nesrečo.
 
-![GIF](grafi/mapa-nesrec-meseci.gif)  
+![GIF](grafi/meseci.gif)  
 **Slika 8:** Število nesreč glede na uro v dnevu
 
 ## Zaključek
